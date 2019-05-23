@@ -1,0 +1,13 @@
+{
+	"token": "yourtoken",
+	"prefix": "yourPrefix",
+	"ownerID": "yourID",
+	"alphaVantageKey": "yourAlphaVantageKey",
+	"startingMoney": 10000,
+	"stockLimit": 5,
+	"errorColor": 14618130,
+	"infoColor": 4886754,
+	"portfolioColor": 8311585,
+	"fancyPurpleColor": 7804810,
+	"stockColor": 16312092
+}
