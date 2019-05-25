@@ -2,7 +2,7 @@
 
 This bot was written by Pace Ockerman.
 
-This bot is a discord bot used to simulate investments in the stock market.  It has features such as buy, sell, viewing portfolio, and more!
+This bot is a discord bot used to simulate investments in the stock market.  It has features such as buy, sell, viewing portfolio, and more! This bot will not be maintained as we get new versions of any of the dependecies.
 
 # Dependencies
 
